@@ -1,0 +1,167 @@
+canonical_identifier: bkk:krp/KR3er033/v1
+canonical_location: https://kanripo.org/bkk/KR3er033/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 醫壘元戎
+  identifiers:
+    krp: KR3er033
+  tags:
+    kr-categories: KR3er
+    tls-dates: dat04310
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er033.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3er033_000.yaml, hash: 'sha256:b40fa2c1e9121e8c236bf325385f764e2c34d71a83a93417d9284c3b053f81a0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3er033_000.markers.yaml, hash: 'sha256:ac52af1757091ca621f29d9a7d6c51269a21f847a9db21b85b501c46a39388eb'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3er033_jc_000-d14.h1s1
+    span:
+    - front
+    - 0
+    - 258
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er033_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 1152
+  label: 傷寒不可汗不可下不可吐諸證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er033_jc_000-d3.h1s1
+    span:
+    - body
+    - 1152
+    - 1333
+  label: 太陽證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er033_jc_000-d4.h1s1
+    span:
+    - body
+    - 1333
+    - 2512
+  label: 易簡建中加減法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er033_jc_000-d5.h1s1
+    span:
+    - body
+    - 2512
+    - 3289
+  label: 陽明證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er033_jc_000-d6.h1s1
+    span:
+    - body
+    - 3289
+    - 3494
+  label: 少陽證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er033_jc_000-d7.h1s1
+    span:
+    - body
+    - 3494
+    - 4268
+  label: 活人治婦人傷寒妊娠服藥例
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er033_jc_000-d8.h1s1
+    span:
+    - body
+    - 4268
+    - 5090
+  label: 太陰證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er033_jc_000-d9.h1s1
+    span:
+    - body
+    - 5090
+    - 6003
+  label: 少陰證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er033_jc_000-d10.h1s1
+    span:
+    - body
+    - 6003
+    - 8460
+  label: 厥陰證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er033_jc_000-d11.h1s1
+    span:
+    - body
+    - 8460
+    - 8677
+  label: 三焦熱用藥大例
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er033_jc_000-d12.h1s1
+    span:
+    - body
+    - 8677
+    - 9658
+  label: 發癍諸藥
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er033_jc_000-d13.h1s1
+    span:
+    - body
+    - 9658
+    - 11046
+  label: 發黃兼諸雜證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er033_jc_000-d15.h1s1
+    span:
+    - body
+    - 11046
+    - 11112
+  label: 聖世無補
+  type: section
+  level: 1
+hash: sha256:67c358cdda0cc892c68ec35eeb1f02103b2d10a5fc3405d3f63ea4a690733247
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
