@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3er033_000-jc.yaml, hash: 'sha256:b7f3a974644133854936767b55cf267273998b3250a7f26749addb5ee6d6f446'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er033_000-jc.markers.yaml, hash: 'sha256:eaa4d652aa6c29553767f732cd9e4197846e26e1f48f91f7281d22daeb5cd499'}
+  - {seq: 0, role: markers, filename: assets/KR3er033_000-jc.markers.yaml, hash: 'sha256:aa625a011556b40342670f36e201f99d97924865ef2e8ac24c3538c84f52bc5f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -161,4 +161,4 @@ table_of_contents:
   label: 聖世無補
   type: section
   level: 1
-hash: sha256:d1093a182192099a2309dc4c10d645ce880121b05a211ca1267ad6da7a7a03bb
+hash: sha256:93828a624c09316fd591d20a5dd8d32511764bff78ec3ca598f7359a52051b54

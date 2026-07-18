@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3er033_000.yaml, hash: 'sha256:66f9656f56a2b7350e490e6fd69f3f97b459fc4fce7dbcb22e365a0c48912446'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er033_000.markers.yaml, hash: 'sha256:1bb48f711fbac94b42c3ff84fbbe083ebb1fa9ccffd6e3da16e51bf9de1319d8'}
+  - {seq: 0, role: markers, filename: assets/KR3er033_000.markers.yaml, hash: 'sha256:2c6c6c1d7467d44f9205384d577b9a77c7f06f149a4d5918b9a0f25f1bfd327d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -161,7 +161,7 @@ table_of_contents:
   label: 聖世無補
   type: section
   level: 1
-hash: sha256:480941bdd6c48d5bc1bba6432e4645b5af591c25f5865721579ef90a40fac138
+hash: sha256:ca982c5b36d417fb80a1b851ece351a0297943e8b059e297019374e513c3caaf
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
